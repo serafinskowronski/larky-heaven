@@ -1,0 +1,13 @@
+{
+  "name": "plandoskonaly",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install": "npm install --prefix frontend",
+    "postinstall": "npm run build --prefix frontend"
+  },
+  "dependencies": {
+    "frontend-dep": "file:frontend",
+    "vite": "^4.3.8"
+  }
+}

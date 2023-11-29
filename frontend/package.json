@@ -1,0 +1,41 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:unit": "vitest",
+    "coverage": "vitest run --coverage",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "format": "prettier --write src/",
+    "test": "npm run test:unit"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "@syncfusion/ej2-vue-schedule": "^21.2.6",
+    "axios": "^1.4.0",
+    "pinia": "^2.0.23",
+    "roboto-fontface": "*",
+    "vue": "^3.2.0",
+    "vue-router": "^4.0.0",
+    "vuetify": "^3.3.1",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.2.0",
+    "@vitejs/plugin-vue": "^4.2.0",
+    "@vitest/coverage-c8": "^0.30.1",
+    "@vue/eslint-config-prettier": "^7.1.0",
+    "@vue/test-utils": "^2.3.0",
+    "eslint": "^8.34.0",
+    "eslint-plugin-vue": "^9.9.0",
+    "jsdom": "^21.1.0",
+    "prettier": "^2.8.4",
+    "resize-observer-polyfill": "^1.5.1",
+    "vite": "^4.3.0",
+    "vite-plugin-vuetify": "^1.0.0",
+    "vitest": "^0.31.0"
+  }
+}
