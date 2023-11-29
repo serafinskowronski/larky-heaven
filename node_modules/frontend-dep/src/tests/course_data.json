@@ -1,0 +1,2188 @@
+[
+  {
+    "course_name": { "pl": "Matematyka dyskretna", "en": "Discrete mathematics" },
+    "term_id": "2022L",
+    "course_units_ids": ["486449", "486450"],
+    "course_id": "1000-212bMD",
+    "units": [
+      {
+        "id": "486449",
+        "class_groups": [
+          {
+            "course_unit_id": "486449",
+            "number": 1,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 10:15:00",
+                "end_time": "2023-02-27 12:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-02 08:30:00",
+                "end_time": "2023-03-02 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-09 08:30:00",
+                "end_time": "2023-03-09 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-13 10:15:00",
+                "end_time": "2023-03-13 12:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-16 08:30:00",
+                "end_time": "2023-03-16 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-23 08:30:00",
+                "end_time": "2023-03-23 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-27 10:15:00",
+                "end_time": "2023-03-27 12:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-30 08:30:00",
+                "end_time": "2023-03-30 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-04-13 08:30:00",
+                "end_time": "2023-04-13 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-04-20 08:30:00",
+                "end_time": "2023-04-20 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-04-24 10:15:00",
+                "end_time": "2023-04-24 12:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-04-27 08:30:00",
+                "end_time": "2023-04-27 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-05-04 08:30:00",
+                "end_time": "2023-05-04 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-05-08 10:15:00",
+                "end_time": "2023-05-08 12:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-05-11 08:30:00",
+                "end_time": "2023-05-11 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-05-18 08:30:00",
+                "end_time": "2023-05-18 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-05-22 10:15:00",
+                "end_time": "2023-05-22 12:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-05-25 08:30:00",
+                "end_time": "2023-05-25 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-06-01 08:30:00",
+                "end_time": "2023-06-01 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-06-05 10:15:00",
+                "end_time": "2023-06-05 12:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-06-15 08:30:00",
+                "end_time": "2023-06-15 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "486450",
+        "class_groups": [
+          {
+            "course_unit_id": "486450",
+            "number": 1,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 12:15:00",
+                "end_time": "2023-02-27 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-03 10:15:00",
+                "end_time": "2023-03-03 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-06 12:15:00",
+                "end_time": "2023-03-06 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-10 10:15:00",
+                "end_time": "2023-03-10 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-13 12:15:00",
+                "end_time": "2023-03-13 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-17 10:15:00",
+                "end_time": "2023-03-17 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-20 12:15:00",
+                "end_time": "2023-03-20 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-24 10:15:00",
+                "end_time": "2023-03-24 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-27 12:15:00",
+                "end_time": "2023-03-27 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-31 10:15:00",
+                "end_time": "2023-03-31 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-03 12:15:00",
+                "end_time": "2023-04-03 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-14 10:15:00",
+                "end_time": "2023-04-14 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-17 12:15:00",
+                "end_time": "2023-04-17 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-21 10:15:00",
+                "end_time": "2023-04-21 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-24 12:15:00",
+                "end_time": "2023-04-24 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-28 10:15:00",
+                "end_time": "2023-04-28 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-05 10:15:00",
+                "end_time": "2023-05-05 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-08 12:15:00",
+                "end_time": "2023-05-08 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-15 12:15:00",
+                "end_time": "2023-05-15 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-19 10:15:00",
+                "end_time": "2023-05-19 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-22 12:15:00",
+                "end_time": "2023-05-22 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-26 10:15:00",
+                "end_time": "2023-05-26 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-29 12:15:00",
+                "end_time": "2023-05-29 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-02 10:15:00",
+                "end_time": "2023-06-02 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-05 12:15:00",
+                "end_time": "2023-06-05 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-12 12:15:00",
+                "end_time": "2023-06-12 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-16 10:15:00",
+                "end_time": "2023-06-16 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486450",
+            "number": 2,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 14:15:00",
+                "end_time": "2023-02-27 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-03 12:15:00",
+                "end_time": "2023-03-03 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-06 14:15:00",
+                "end_time": "2023-03-06 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-10 12:15:00",
+                "end_time": "2023-03-10 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-13 14:15:00",
+                "end_time": "2023-03-13 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-17 12:15:00",
+                "end_time": "2023-03-17 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-20 14:15:00",
+                "end_time": "2023-03-20 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-24 12:15:00",
+                "end_time": "2023-03-24 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-27 14:15:00",
+                "end_time": "2023-03-27 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-31 12:15:00",
+                "end_time": "2023-03-31 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-03 14:15:00",
+                "end_time": "2023-04-03 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-14 12:15:00",
+                "end_time": "2023-04-14 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-17 14:15:00",
+                "end_time": "2023-04-17 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-21 12:15:00",
+                "end_time": "2023-04-21 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-24 14:15:00",
+                "end_time": "2023-04-24 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-28 12:15:00",
+                "end_time": "2023-04-28 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-05 12:15:00",
+                "end_time": "2023-05-05 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-08 14:15:00",
+                "end_time": "2023-05-08 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-15 14:15:00",
+                "end_time": "2023-05-15 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-19 12:15:00",
+                "end_time": "2023-05-19 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-22 14:15:00",
+                "end_time": "2023-05-22 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-26 12:15:00",
+                "end_time": "2023-05-26 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-29 14:15:00",
+                "end_time": "2023-05-29 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-02 12:15:00",
+                "end_time": "2023-06-02 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-05 14:15:00",
+                "end_time": "2023-06-05 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-12 14:15:00",
+                "end_time": "2023-06-12 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-16 12:15:00",
+                "end_time": "2023-06-16 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486450",
+            "number": 3,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 12:15:00",
+                "end_time": "2023-02-27 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-03 10:15:00",
+                "end_time": "2023-03-03 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-06 12:15:00",
+                "end_time": "2023-03-06 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-10 10:15:00",
+                "end_time": "2023-03-10 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-13 12:15:00",
+                "end_time": "2023-03-13 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-17 10:15:00",
+                "end_time": "2023-03-17 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-20 12:15:00",
+                "end_time": "2023-03-20 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-24 10:15:00",
+                "end_time": "2023-03-24 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-27 12:15:00",
+                "end_time": "2023-03-27 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-31 10:15:00",
+                "end_time": "2023-03-31 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-03 12:15:00",
+                "end_time": "2023-04-03 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-14 10:15:00",
+                "end_time": "2023-04-14 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-17 12:15:00",
+                "end_time": "2023-04-17 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-21 10:15:00",
+                "end_time": "2023-04-21 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-24 12:15:00",
+                "end_time": "2023-04-24 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-28 10:15:00",
+                "end_time": "2023-04-28 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-05 10:15:00",
+                "end_time": "2023-05-05 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-08 12:15:00",
+                "end_time": "2023-05-08 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-15 12:15:00",
+                "end_time": "2023-05-15 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-19 10:15:00",
+                "end_time": "2023-05-19 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-22 12:15:00",
+                "end_time": "2023-05-22 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-26 10:15:00",
+                "end_time": "2023-05-26 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-29 12:15:00",
+                "end_time": "2023-05-29 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-02 10:15:00",
+                "end_time": "2023-06-02 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-05 12:15:00",
+                "end_time": "2023-06-05 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-12 12:15:00",
+                "end_time": "2023-06-12 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-16 10:15:00",
+                "end_time": "2023-06-16 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486450",
+            "number": 4,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 12:15:00",
+                "end_time": "2023-02-27 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-03 10:15:00",
+                "end_time": "2023-03-03 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-06 12:15:00",
+                "end_time": "2023-03-06 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-10 10:15:00",
+                "end_time": "2023-03-10 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-13 12:15:00",
+                "end_time": "2023-03-13 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-17 10:15:00",
+                "end_time": "2023-03-17 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-20 12:15:00",
+                "end_time": "2023-03-20 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-24 10:15:00",
+                "end_time": "2023-03-24 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-27 12:15:00",
+                "end_time": "2023-03-27 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-31 10:15:00",
+                "end_time": "2023-03-31 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-03 12:15:00",
+                "end_time": "2023-04-03 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-14 10:15:00",
+                "end_time": "2023-04-14 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-17 12:15:00",
+                "end_time": "2023-04-17 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-21 10:15:00",
+                "end_time": "2023-04-21 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-24 12:15:00",
+                "end_time": "2023-04-24 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-28 10:15:00",
+                "end_time": "2023-04-28 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-05 10:15:00",
+                "end_time": "2023-05-05 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-08 12:15:00",
+                "end_time": "2023-05-08 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-15 12:15:00",
+                "end_time": "2023-05-15 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-19 10:15:00",
+                "end_time": "2023-05-19 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-22 12:15:00",
+                "end_time": "2023-05-22 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-26 10:15:00",
+                "end_time": "2023-05-26 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-29 12:15:00",
+                "end_time": "2023-05-29 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-02 10:15:00",
+                "end_time": "2023-06-02 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-05 12:15:00",
+                "end_time": "2023-06-05 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-12 12:15:00",
+                "end_time": "2023-06-12 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-16 10:15:00",
+                "end_time": "2023-06-16 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486450",
+            "number": 5,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 14:15:00",
+                "end_time": "2023-02-27 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-03 08:30:00",
+                "end_time": "2023-03-03 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-06 14:15:00",
+                "end_time": "2023-03-06 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-10 08:30:00",
+                "end_time": "2023-03-10 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-13 14:15:00",
+                "end_time": "2023-03-13 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-17 08:30:00",
+                "end_time": "2023-03-17 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-20 14:15:00",
+                "end_time": "2023-03-20 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-24 08:30:00",
+                "end_time": "2023-03-24 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-27 14:15:00",
+                "end_time": "2023-03-27 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-31 08:30:00",
+                "end_time": "2023-03-31 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-03 14:15:00",
+                "end_time": "2023-04-03 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-14 08:30:00",
+                "end_time": "2023-04-14 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-17 14:15:00",
+                "end_time": "2023-04-17 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-21 08:30:00",
+                "end_time": "2023-04-21 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-24 14:15:00",
+                "end_time": "2023-04-24 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-28 08:30:00",
+                "end_time": "2023-04-28 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-05 08:30:00",
+                "end_time": "2023-05-05 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-08 14:15:00",
+                "end_time": "2023-05-08 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-15 14:15:00",
+                "end_time": "2023-05-15 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-19 08:30:00",
+                "end_time": "2023-05-19 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-22 14:15:00",
+                "end_time": "2023-05-22 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-26 08:30:00",
+                "end_time": "2023-05-26 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-29 14:15:00",
+                "end_time": "2023-05-29 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-02 08:30:00",
+                "end_time": "2023-06-02 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-05 14:15:00",
+                "end_time": "2023-06-05 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-12 14:15:00",
+                "end_time": "2023-06-12 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-16 08:30:00",
+                "end_time": "2023-06-16 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486450",
+            "number": 6,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 14:15:00",
+                "end_time": "2023-02-27 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-03 12:15:00",
+                "end_time": "2023-03-03 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-06 14:15:00",
+                "end_time": "2023-03-06 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-10 12:15:00",
+                "end_time": "2023-03-10 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-13 14:15:00",
+                "end_time": "2023-03-13 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-17 12:15:00",
+                "end_time": "2023-03-17 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-20 14:15:00",
+                "end_time": "2023-03-20 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-24 12:15:00",
+                "end_time": "2023-03-24 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-27 14:15:00",
+                "end_time": "2023-03-27 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-31 12:15:00",
+                "end_time": "2023-03-31 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-03 14:15:00",
+                "end_time": "2023-04-03 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-14 12:15:00",
+                "end_time": "2023-04-14 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-17 14:15:00",
+                "end_time": "2023-04-17 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-21 12:15:00",
+                "end_time": "2023-04-21 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-24 14:15:00",
+                "end_time": "2023-04-24 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-28 12:15:00",
+                "end_time": "2023-04-28 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-05 12:15:00",
+                "end_time": "2023-05-05 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-08 14:15:00",
+                "end_time": "2023-05-08 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-15 14:15:00",
+                "end_time": "2023-05-15 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-19 12:15:00",
+                "end_time": "2023-05-19 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-22 14:15:00",
+                "end_time": "2023-05-22 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-26 12:15:00",
+                "end_time": "2023-05-26 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-29 14:15:00",
+                "end_time": "2023-05-29 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-02 12:15:00",
+                "end_time": "2023-06-02 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-05 14:15:00",
+                "end_time": "2023-06-05 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-12 14:15:00",
+                "end_time": "2023-06-12 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-16 12:15:00",
+                "end_time": "2023-06-16 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486450",
+            "number": 7,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 12:15:00",
+                "end_time": "2023-02-27 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-03 10:15:00",
+                "end_time": "2023-03-03 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-06 12:15:00",
+                "end_time": "2023-03-06 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-10 10:15:00",
+                "end_time": "2023-03-10 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-13 12:15:00",
+                "end_time": "2023-03-13 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-17 10:15:00",
+                "end_time": "2023-03-17 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-20 12:15:00",
+                "end_time": "2023-03-20 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-24 10:15:00",
+                "end_time": "2023-03-24 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-27 12:15:00",
+                "end_time": "2023-03-27 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-31 10:15:00",
+                "end_time": "2023-03-31 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-03 12:15:00",
+                "end_time": "2023-04-03 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-14 10:15:00",
+                "end_time": "2023-04-14 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-17 12:15:00",
+                "end_time": "2023-04-17 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-21 10:15:00",
+                "end_time": "2023-04-21 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-24 12:15:00",
+                "end_time": "2023-04-24 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-28 10:15:00",
+                "end_time": "2023-04-28 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-05 10:15:00",
+                "end_time": "2023-05-05 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-08 12:15:00",
+                "end_time": "2023-05-08 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-15 12:15:00",
+                "end_time": "2023-05-15 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-19 10:15:00",
+                "end_time": "2023-05-19 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-22 12:15:00",
+                "end_time": "2023-05-22 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-26 10:15:00",
+                "end_time": "2023-05-26 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-29 12:15:00",
+                "end_time": "2023-05-29 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-02 10:15:00",
+                "end_time": "2023-06-02 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-05 12:15:00",
+                "end_time": "2023-06-05 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-12 12:15:00",
+                "end_time": "2023-06-12 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-16 10:15:00",
+                "end_time": "2023-06-16 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486450",
+            "number": 8,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 14:15:00",
+                "end_time": "2023-02-27 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-03 08:30:00",
+                "end_time": "2023-03-03 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-06 14:15:00",
+                "end_time": "2023-03-06 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-10 08:30:00",
+                "end_time": "2023-03-10 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-13 14:15:00",
+                "end_time": "2023-03-13 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-17 08:30:00",
+                "end_time": "2023-03-17 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-20 14:15:00",
+                "end_time": "2023-03-20 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-24 08:30:00",
+                "end_time": "2023-03-24 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-27 14:15:00",
+                "end_time": "2023-03-27 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-31 08:30:00",
+                "end_time": "2023-03-31 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-03 14:15:00",
+                "end_time": "2023-04-03 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-14 08:30:00",
+                "end_time": "2023-04-14 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-17 14:15:00",
+                "end_time": "2023-04-17 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-21 08:30:00",
+                "end_time": "2023-04-21 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-24 14:15:00",
+                "end_time": "2023-04-24 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-28 08:30:00",
+                "end_time": "2023-04-28 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-05 08:30:00",
+                "end_time": "2023-05-05 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-08 14:15:00",
+                "end_time": "2023-05-08 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-15 14:15:00",
+                "end_time": "2023-05-15 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-19 08:30:00",
+                "end_time": "2023-05-19 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-22 14:15:00",
+                "end_time": "2023-05-22 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-26 08:30:00",
+                "end_time": "2023-05-26 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-29 14:15:00",
+                "end_time": "2023-05-29 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-02 08:30:00",
+                "end_time": "2023-06-02 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-05 14:15:00",
+                "end_time": "2023-06-05 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-12 14:15:00",
+                "end_time": "2023-06-12 16:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-16 08:30:00",
+                "end_time": "2023-06-16 10:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486450",
+            "number": 9,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 12:15:00",
+                "end_time": "2023-02-27 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-03 10:15:00",
+                "end_time": "2023-03-03 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-06 12:15:00",
+                "end_time": "2023-03-06 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-10 10:15:00",
+                "end_time": "2023-03-10 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-13 12:15:00",
+                "end_time": "2023-03-13 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-17 10:15:00",
+                "end_time": "2023-03-17 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-20 12:15:00",
+                "end_time": "2023-03-20 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-24 10:15:00",
+                "end_time": "2023-03-24 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-27 12:15:00",
+                "end_time": "2023-03-27 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-03-31 10:15:00",
+                "end_time": "2023-03-31 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-03 12:15:00",
+                "end_time": "2023-04-03 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-14 10:15:00",
+                "end_time": "2023-04-14 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-17 12:15:00",
+                "end_time": "2023-04-17 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-21 10:15:00",
+                "end_time": "2023-04-21 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-24 12:15:00",
+                "end_time": "2023-04-24 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-04-28 10:15:00",
+                "end_time": "2023-04-28 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-05 10:15:00",
+                "end_time": "2023-05-05 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-08 12:15:00",
+                "end_time": "2023-05-08 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-15 12:15:00",
+                "end_time": "2023-05-15 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-19 10:15:00",
+                "end_time": "2023-05-19 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-22 12:15:00",
+                "end_time": "2023-05-22 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-26 10:15:00",
+                "end_time": "2023-05-26 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-05-29 12:15:00",
+                "end_time": "2023-05-29 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-02 10:15:00",
+                "end_time": "2023-06-02 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-05 12:15:00",
+                "end_time": "2023-06-05 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-12 12:15:00",
+                "end_time": "2023-06-12 14:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              },
+              {
+                "start_time": "2023-06-16 10:15:00",
+                "end_time": "2023-06-16 12:00:00",
+                "name": { "pl": "Ćwiczenia", "en": "Class" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": { "pl": "Inżynieria oprogramowania", "en": "Software engineering" },
+    "term_id": "2022L",
+    "course_units_ids": ["486594", "486595"],
+    "course_id": "1000-214bIOP",
+    "units": [
+      {
+        "id": "486594",
+        "class_groups": [
+          {
+            "course_unit_id": "486594",
+            "number": 1,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-03-03 08:30:00",
+                "end_time": "2023-03-03 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-10 08:30:00",
+                "end_time": "2023-03-10 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-17 08:30:00",
+                "end_time": "2023-03-17 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-24 08:30:00",
+                "end_time": "2023-03-24 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-03-31 08:30:00",
+                "end_time": "2023-03-31 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-04-14 08:30:00",
+                "end_time": "2023-04-14 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-04-21 08:30:00",
+                "end_time": "2023-04-21 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-04-28 08:30:00",
+                "end_time": "2023-04-28 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-05-05 08:30:00",
+                "end_time": "2023-05-05 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-05-19 08:30:00",
+                "end_time": "2023-05-19 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-05-26 08:30:00",
+                "end_time": "2023-05-26 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-06-02 08:30:00",
+                "end_time": "2023-06-02 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              },
+              {
+                "start_time": "2023-06-16 08:30:00",
+                "end_time": "2023-06-16 10:00:00",
+                "name": { "pl": "Wykład", "en": "Lecture" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "486595",
+        "class_groups": [
+          {
+            "course_unit_id": "486595",
+            "number": 1,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-28 08:30:00",
+                "end_time": "2023-02-28 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-07 08:30:00",
+                "end_time": "2023-03-07 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-14 08:30:00",
+                "end_time": "2023-03-14 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-21 08:30:00",
+                "end_time": "2023-03-21 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-28 08:30:00",
+                "end_time": "2023-03-28 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-04 08:30:00",
+                "end_time": "2023-04-04 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-18 08:30:00",
+                "end_time": "2023-04-18 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-25 08:30:00",
+                "end_time": "2023-04-25 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-09 08:30:00",
+                "end_time": "2023-05-09 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-16 08:30:00",
+                "end_time": "2023-05-16 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-23 08:30:00",
+                "end_time": "2023-05-23 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-30 08:30:00",
+                "end_time": "2023-05-30 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-06 08:30:00",
+                "end_time": "2023-06-06 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-13 08:30:00",
+                "end_time": "2023-06-13 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486595",
+            "number": 2,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-03-03 10:15:00",
+                "end_time": "2023-03-03 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-10 10:15:00",
+                "end_time": "2023-03-10 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-17 10:15:00",
+                "end_time": "2023-03-17 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-24 10:15:00",
+                "end_time": "2023-03-24 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-31 10:15:00",
+                "end_time": "2023-03-31 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-14 10:15:00",
+                "end_time": "2023-04-14 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-21 10:15:00",
+                "end_time": "2023-04-21 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-28 10:15:00",
+                "end_time": "2023-04-28 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-05 10:15:00",
+                "end_time": "2023-05-05 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-19 10:15:00",
+                "end_time": "2023-05-19 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-26 10:15:00",
+                "end_time": "2023-05-26 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-02 10:15:00",
+                "end_time": "2023-06-02 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-16 10:15:00",
+                "end_time": "2023-06-16 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486595",
+            "number": 3,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-27 18:15:00",
+                "end_time": "2023-02-27 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-06 18:15:00",
+                "end_time": "2023-03-06 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-13 18:15:00",
+                "end_time": "2023-03-13 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-20 18:15:00",
+                "end_time": "2023-03-20 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-27 18:15:00",
+                "end_time": "2023-03-27 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-03 18:15:00",
+                "end_time": "2023-04-03 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-17 18:15:00",
+                "end_time": "2023-04-17 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-24 18:15:00",
+                "end_time": "2023-04-24 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-08 18:15:00",
+                "end_time": "2023-05-08 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-15 18:15:00",
+                "end_time": "2023-05-15 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-22 18:15:00",
+                "end_time": "2023-05-22 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-29 18:15:00",
+                "end_time": "2023-05-29 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-05 18:15:00",
+                "end_time": "2023-06-05 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-12 18:15:00",
+                "end_time": "2023-06-12 20:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486595",
+            "number": 4,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-03-02 14:15:00",
+                "end_time": "2023-03-02 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-09 14:15:00",
+                "end_time": "2023-03-09 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-16 14:15:00",
+                "end_time": "2023-03-16 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-23 14:15:00",
+                "end_time": "2023-03-23 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-30 14:15:00",
+                "end_time": "2023-03-30 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-13 14:15:00",
+                "end_time": "2023-04-13 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-20 14:15:00",
+                "end_time": "2023-04-20 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-27 14:15:00",
+                "end_time": "2023-04-27 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-04 14:15:00",
+                "end_time": "2023-05-04 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-11 14:15:00",
+                "end_time": "2023-05-11 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-18 14:15:00",
+                "end_time": "2023-05-18 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-25 14:15:00",
+                "end_time": "2023-05-25 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-01 14:15:00",
+                "end_time": "2023-06-01 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-15 14:15:00",
+                "end_time": "2023-06-15 16:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486595",
+            "number": 5,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-28 08:30:00",
+                "end_time": "2023-02-28 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-07 08:30:00",
+                "end_time": "2023-03-07 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-14 08:30:00",
+                "end_time": "2023-03-14 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-21 08:30:00",
+                "end_time": "2023-03-21 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-28 08:30:00",
+                "end_time": "2023-03-28 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-04 08:30:00",
+                "end_time": "2023-04-04 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-18 08:30:00",
+                "end_time": "2023-04-18 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-25 08:30:00",
+                "end_time": "2023-04-25 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-09 08:30:00",
+                "end_time": "2023-05-09 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-16 08:30:00",
+                "end_time": "2023-05-16 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-23 08:30:00",
+                "end_time": "2023-05-23 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-30 08:30:00",
+                "end_time": "2023-05-30 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-06 08:30:00",
+                "end_time": "2023-06-06 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-13 08:30:00",
+                "end_time": "2023-06-13 10:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486595",
+            "number": 6,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-03-02 10:15:00",
+                "end_time": "2023-03-02 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-09 10:15:00",
+                "end_time": "2023-03-09 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-16 10:15:00",
+                "end_time": "2023-03-16 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-23 10:15:00",
+                "end_time": "2023-03-23 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-30 10:15:00",
+                "end_time": "2023-03-30 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-13 10:15:00",
+                "end_time": "2023-04-13 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-20 10:15:00",
+                "end_time": "2023-04-20 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-27 10:15:00",
+                "end_time": "2023-04-27 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-04 10:15:00",
+                "end_time": "2023-05-04 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-11 10:15:00",
+                "end_time": "2023-05-11 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-18 10:15:00",
+                "end_time": "2023-05-18 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-25 10:15:00",
+                "end_time": "2023-05-25 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-01 10:15:00",
+                "end_time": "2023-06-01 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-15 10:15:00",
+                "end_time": "2023-06-15 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486595",
+            "number": 7,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-28 10:15:00",
+                "end_time": "2023-02-28 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-07 10:15:00",
+                "end_time": "2023-03-07 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-14 10:15:00",
+                "end_time": "2023-03-14 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-21 10:15:00",
+                "end_time": "2023-03-21 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-28 10:15:00",
+                "end_time": "2023-03-28 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-04 10:15:00",
+                "end_time": "2023-04-04 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-18 10:15:00",
+                "end_time": "2023-04-18 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-25 10:15:00",
+                "end_time": "2023-04-25 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-09 10:15:00",
+                "end_time": "2023-05-09 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-16 10:15:00",
+                "end_time": "2023-05-16 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-23 10:15:00",
+                "end_time": "2023-05-23 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-30 10:15:00",
+                "end_time": "2023-05-30 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-06 10:15:00",
+                "end_time": "2023-06-06 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-13 10:15:00",
+                "end_time": "2023-06-13 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486595",
+            "number": 8,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-02-28 10:15:00",
+                "end_time": "2023-02-28 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-07 10:15:00",
+                "end_time": "2023-03-07 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-14 10:15:00",
+                "end_time": "2023-03-14 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-21 10:15:00",
+                "end_time": "2023-03-21 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-28 10:15:00",
+                "end_time": "2023-03-28 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-04 10:15:00",
+                "end_time": "2023-04-04 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-18 10:15:00",
+                "end_time": "2023-04-18 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-25 10:15:00",
+                "end_time": "2023-04-25 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-09 10:15:00",
+                "end_time": "2023-05-09 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-16 10:15:00",
+                "end_time": "2023-05-16 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-23 10:15:00",
+                "end_time": "2023-05-23 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-30 10:15:00",
+                "end_time": "2023-05-30 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-06 10:15:00",
+                "end_time": "2023-06-06 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-13 10:15:00",
+                "end_time": "2023-06-13 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              }
+            ]
+          },
+          {
+            "course_unit_id": "486595",
+            "number": 9,
+            "selected": true,
+            "dates": [
+              {
+                "start_time": "2023-03-02 10:15:00",
+                "end_time": "2023-03-02 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-09 10:15:00",
+                "end_time": "2023-03-09 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-16 10:15:00",
+                "end_time": "2023-03-16 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-23 10:15:00",
+                "end_time": "2023-03-23 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-03-30 10:15:00",
+                "end_time": "2023-03-30 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-13 10:15:00",
+                "end_time": "2023-04-13 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-20 10:15:00",
+                "end_time": "2023-04-20 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-04-27 10:15:00",
+                "end_time": "2023-04-27 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-04 10:15:00",
+                "end_time": "2023-05-04 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-11 10:15:00",
+                "end_time": "2023-05-11 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-18 10:15:00",
+                "end_time": "2023-05-18 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-05-25 10:15:00",
+                "end_time": "2023-05-25 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-01 10:15:00",
+                "end_time": "2023-06-01 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              },
+              {
+                "start_time": "2023-06-15 10:15:00",
+                "end_time": "2023-06-15 12:00:00",
+                "name": { "pl": "Laboratorium", "en": "Lab" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
